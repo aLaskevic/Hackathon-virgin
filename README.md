@@ -12,7 +12,10 @@ The goal of the project is to unite various charitable initiatives as well as co
   <li>An engaging overview of all campaigns</li>
 </ul>
 
-<h2>Live Preview</h2>
+<h2>Video Preview:</h2>
+https://youtube.com/shorts/OUULHkV_C04?feature=share
+
+<h2>Screenshots</h2>
 ![photo_5972095426465221118_y](https://github.com/user-attachments/assets/70ca759a-0608-4112-bc5e-28d4f94ad5bd)
 ![photo_5972095426465221115_y](https://github.com/user-attachments/assets/4895326b-9ebd-481f-8b07-f31e30210ffd)
 ![photo_5972095426465221114_y](https://github.com/user-attachments/assets/721c8942-87db-4d36-b839-447c1334f6be)
