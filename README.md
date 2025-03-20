@@ -15,6 +15,9 @@ The goal of the project is to unite various charitable initiatives as well as co
 <h2>Video Preview:</h2>
 https://youtube.com/shorts/OUULHkV_C04?feature=share
 
+<h2>Link to Backend Repo:</h2>
+https://github.com/aLaskevic/Hackathon-virgin-backend-
+
 <h2>Screenshots</h2>
 ![photo_5972095426465221118_y](https://github.com/user-attachments/assets/70ca759a-0608-4112-bc5e-28d4f94ad5bd)
 ![photo_5972095426465221115_y](https://github.com/user-attachments/assets/4895326b-9ebd-481f-8b07-f31e30210ffd)
