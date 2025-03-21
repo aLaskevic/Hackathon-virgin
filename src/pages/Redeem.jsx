@@ -1,7 +1,7 @@
 import React from "react";
-import { useNavbar } from "../contexts/NavbarContext";
-import baseStore from "../stores/baseStore";
-import { baseUrl } from "../stores/baseStore";
+import { useNavbar } from "/src/contexts/NavbarContext";
+import baseStore from "/src/stores/baseStore";
+import { baseUrl } from "/src/stores/baseStore";
 import { useNavigate } from "react-router-dom";
 
 function Redeem() {

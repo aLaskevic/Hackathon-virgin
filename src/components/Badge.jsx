@@ -12,7 +12,7 @@ function Badge({ badge }) {
         className="flex flex-col gap-2 items-center"
       >
         <img
-          src={`/${badge.image}`}
+          src={badge.image}
           alt=""
           className="h-12 min-w-12 bg-gray-50 rounded-full flex items-center justify-center mt-2"
         />{" "}
@@ -22,7 +22,7 @@ function Badge({ badge }) {
       <Modal isOpen={isModalOpen}>
         <div className="p-5 flex items-center justify-center flex-col gap-5 mt-25 h-full">
           <img
-            src={`/${badge.image}`}
+            src={badge.image}
             alt=""
             className="h-20 min-w-20 bg-gray-50 rounded-full flex items-center justify-center mt-15"
           />

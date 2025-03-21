@@ -16,7 +16,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-1.png",
+            image: "/badge-1.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -51,7 +51,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-1.png",
+            image: "/badge-1.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -67,7 +67,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-0.png",
+            image: "/badge-0.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -101,7 +101,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-2.png",
+            image: "/badge-2.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -117,7 +117,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-3.png",
+            image: "/badge-3.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -148,7 +148,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-2.png",
+            image: "/badge-2.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -165,7 +165,7 @@ const projects = [
           name: null,
           earnedBadge: {
             name: "Cool Guy",
-            image: "/images/badge-1.png",
+            image: "/badge-1.png",
             description: "This person cared..",
           },
           earnedXPAmount: 10,
@@ -190,7 +190,7 @@ const redeem = {
   name: null,
   earnedBadge: {
     name: "Cool Guy",
-    image: "/images/badge-1.png",
+    image: "/badge-1.png",
     description: "This person cared..",
   },
   earnedXPAmount: 10,
@@ -204,17 +204,17 @@ const profile = {
   earnedBadges: [
     {
       name: "Beach Cleaner",
-      image: "/images/badge-0.png",
+      image: "/badge-0.png",
       description: "Cleaned a beach",
     },
     {
       name: "Sugar Daddy",
-      image: "/images/badge-2.png",
+      image: "/badge-2.png",
       description: "Donated to cause",
     },
     {
       name: "Cool Guy",
-      image: "/images/badge-1.png",
+      image: "/badge-1.png",
       description: "This person cared..",
     },
   ],
